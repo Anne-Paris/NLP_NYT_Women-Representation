@@ -1,0 +1,2 @@
+Link to download (3GB dataset is too big for GitHub):
+https://www.kaggle.com/datasets/tumanovalexander/nyt-articles-data/download?datasetVersionNumber=3
